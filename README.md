@@ -34,6 +34,7 @@ please change your Crentials in this script.
 ------------------------------------------------------------
 🚀 HOW TO RUN:
 ------------------------------------------------------------
+npm install -g ngrok
 
 Run the script using:
 
